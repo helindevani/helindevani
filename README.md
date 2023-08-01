@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/helindevani/helindevani/master/name.svg" alt="helindevani" />
+</h1>
 
+<h1 align="center">Hi 👋, I'm Helin Devani</h1>
+<h3 align="center">A passionate Web Developer and programmer from India.</h3>
 <!--
 **helindevani/helindevani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
