@@ -27,19 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://twitter.com/HelinDevani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HelinDevani1" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/helin-devani-03a11a226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helin-devani-03a11a226" height="30" width="40" /></a>
-
 <a href="https://www.facebook.com/helindevani8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="helindevani8" height="30" width="40" /></a>
-
 <a href="https://instagram.com/helin_devani_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helin_devani_85" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/helindevani8503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="helindevani8503" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/helindevani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="helindevani" height="30" width="40" /></a>
-
 <a href="https://www.codingninjas.com/studio/profile/9301db32-0869-4d86-ba5a-12db82c7024f" target="blank"><img align="center" src="https://raw.githubusercontent.com/helindevani/helindevani/master/codestudio.svg" alt="helin" height="70" width="140" /></a>
 </p>
 
@@ -50,8 +43,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=brijeshbhikadiya&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="brijeshbhikadiya" /></p>
+<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=helindevani&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="helindevani" /></p>
 
-<p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=brijeshbhikadiya&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="brijeshbhikadiya"/></p>
+<p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=helindevani&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="helindevani"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshbhikadiya&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="brijeshbhikadiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helindevani&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="helindevani" /></p>
