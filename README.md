@@ -33,7 +33,6 @@
 <a href="https://instagram.com/helin_devani_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helin_devani_85" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/helindevani8503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="helindevani8503" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/helindevani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="helindevani" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/9301db32-0869-4d86-ba5a-12db82c7024f" target="blank"><img align="center" src="https://raw.githubusercontent.com/helindevani/helindevani/master/codestudio.svg" alt="helin" height="70" width="140" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
